@@ -1,5 +1,6 @@
 # devops-netology
 # hello
+# GITHUB
 в файле .gitignore каталога terraform игнорируются слудующее: 
 **/.terraform/*: -  все файлы и каталоги с именем terraform и их содержимое во всех каталогах
 *.tfstate и *.tfstate.*: - файлы с расширениями .tfstate и .tfstate., за которыми следуют любые символы
